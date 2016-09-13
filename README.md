@@ -2,6 +2,19 @@ Repo Info
 =========
 A base [Alpine] Linux image with [Ansible] installed.
 
+Usage
+-----
+To spin up for easy [Ansible] usage:
+```
+docker run -it mrlesmithjr/alpine-ansible /bin/sh
+```
+
+To build images from:
+```
+FROM mrlesmithjr/alpine-ansible
+```
+
+
 License
 -------
 
