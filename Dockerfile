@@ -1,4 +1,4 @@
-FROM alpine
+FROM alpine:3.3
 
 MAINTAINER Larry Smith Jr. <mrlesmithjr@gmail.com>
 
