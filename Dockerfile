@@ -1,4 +1,4 @@
-FROM alpine:3.4
+FROM alpine:edge
 
 MAINTAINER Larry Smith Jr. <mrlesmithjr@gmail.com>
 
