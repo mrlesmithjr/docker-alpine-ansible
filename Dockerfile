@@ -1,4 +1,4 @@
-FROM alpine:3.4
+FROM armhf/alpine
 
 MAINTAINER Larry Smith Jr. <mrlesmithjr@gmail.com>
 
