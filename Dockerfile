@@ -1,4 +1,4 @@
-FROM armhf/alpine
+FROM resin/raspberry-pi-alpine:3.5
 
 MAINTAINER Larry Smith Jr. <mrlesmithjr@gmail.com>
 
